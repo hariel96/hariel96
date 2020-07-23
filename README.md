@@ -1,8 +1,5 @@
 👊 Bem vindo ao meu perfil do GitHub!  🤘
 
-<!--
-**hariel96/hariel96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👨‍💻 Atualmente trabalho como estagiário em desenvolvimento Java/Angular.
 
 📚 Já sou formado em Psicologia e atualmente estudo Análise e Desenvolvimento de Sistemas pelo IFSP. 
