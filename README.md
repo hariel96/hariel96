@@ -11,7 +11,7 @@
     Banco de Dados MySQL/H2
     Angular 9/ Bootstrap/ HTML 5/ CSS 3
     
- 🎏 Inglês:
+ 🎏 Inglês:<br>
     Escrita: ⬜ ✅ ⬜ ⬜ ⬜
     Leitura: ⬜ ⬜ ⬜ ✅ ⬜
     Fala: ⬜ ✅ ⬜ ⬜ ⬜
