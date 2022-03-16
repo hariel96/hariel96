@@ -1,21 +1,21 @@
 👊 Bem vindo ao meu perfil do GitHub!  🤘
 
-👨‍💻 Atualmente trabalho como estagiário em desenvolvimento Java/Angular.
+👨‍💻 Atualmente trabalho com desenvolvimento Salesforce.
 
-📚 Já sou formado em Psicologia e atualmente estudo Análise e Desenvolvimento de Sistemas pelo IFSP. 
+📚 Sou formado em Psicologia e atualmente estudando Análise e Desenvolvimento de Sistemas pelo IFSP. 
     
-💻 Estou focando no aprendizado de algumas tecnologias do Front-End como Javascript, Angular, React, e no futuro gostaria de aprender um pouco mais sobre Ciência de Dados também.
-
 💪 Competências:
-    Java 8/ Spring Boot/ Spring MVC/ Hibernate JPA/ JDBC
-    Banco de Dados MySQL/H2
-    Angular 9/ Bootstrap/ HTML 5/ CSS 3
+    Apex / Triggers / Classes de Teste / API Rest / 
+    SOQL / Process Builder / Flow / LWC / 
+    HTML/ CSS / Javascript / VisualForce Pages / 
+
     
  🎏 Inglês:<br>
-    Escrita: ⬜ ✅ ⬜ ⬜ ⬜
-    Leitura: ⬜ ⬜ ⬜ ✅ ⬜
-    Fala: ⬜ ✅ ⬜ ⬜ ⬜
-    Compreensão: ⬜ ⬜ ⬜ ✅ ⬜
+    Leitura:                          ⬜ ⬜ ⬜ ⬜ ✅
+    Listening(Compreensão na escuta): ⬜ ⬜ ⬜ ✅ ⬜
+    Escrita:                          ⬜ ⬜ ✅ ⬜ ⬜
+    Fala:                             ⬜ ⬜ ✅ ⬜ ⬜
+    
 
 📫 Você consegue me encontrar e falar comigo em:
 
